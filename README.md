@@ -1,6 +1,6 @@
 # ITMO
 <html>
-<table border="5" width="50%">
+<table border="5">
 <tr align="center" valign="middle">
   <td>Ф.И.О. студента</td>
   <td>Номер группы</td>
